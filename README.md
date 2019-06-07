@@ -1,7 +1,7 @@
 # Kalman implementation in Keil
 ## kalman算法
 5个公式，2个预测，3个更新
-<div align=center>![](https://github.com/bbidong/kalman-in-keil/blob/master/images/kalman.jpg)
+<center>![](https://github.com/bbidong/kalman-in-keil/blob/master/images/kalman.jpg) </center>
 - Q:过程噪声协方差
 R:测量噪声协方差
 - Q/R决定响应速度，比值越大，响应越快
