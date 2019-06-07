@@ -76,13 +76,4 @@ typedef struct
 void   kalman_filter_init(kalman_filter_t *F, kalman_filter_init_t *I);	//把float数组init为mat
 float *kalman_filter_calc(kalman_filter_t *F, float signal1, float signal2);
 
-
-
-
-
-
-
-
-
-
 #endif
